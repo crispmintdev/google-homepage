@@ -1,0 +1,16 @@
+body    {
+    font-family: Arial, sans-serif;
+}
+
+.nav-container  {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav .top-left-links {
+    margin-left: 10px;
+}
+
+nav .top-right-links    {
+    margin-right: 10px;
+}
