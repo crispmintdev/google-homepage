@@ -7,10 +7,21 @@ body    {
     justify-content: space-between;
 }
 
-nav .top-left-links {
+.top-left-links {
     margin-left: 10px;
 }
 
-nav .top-right-links    {
+.top-right-links    {
     margin-right: 10px;
 }
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+}
+
+/*.google-image   {
+    display: flex;
+    justify-content: center;
+}
+*/
